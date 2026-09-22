@@ -1,0 +1,6 @@
+{
+  "name": "نظام إدارة جمعية كشافة الموعود الإسلامية",
+  "description": "نظام إدارة كشفي متكامل يتيح إدارة الأفراد، الفرق، الصندوق المالي، الأنشطة، وصلاحيات المستخدمين بموافقة المشرف العام.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
